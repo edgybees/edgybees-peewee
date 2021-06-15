@@ -129,9 +129,9 @@ def _do_setup(c_extensions, sqlite_extensions):
         version=__import__('peewee').__version__,
         description='a little orm',
         long_description=readme,
-        author='Charles Leifer',
-        author_email='coleifer@gmail.com',
-        url='https://github.com/coleifer/peewee/',
+        author='Edgybees Forked from Charles Leifer',
+        author_email='',
+        url='https://github.com/edgybees/edgybees-peewee/',
         packages=['playhouse'],
         py_modules=['peewee', 'pwiz'],
         classifiers=[
