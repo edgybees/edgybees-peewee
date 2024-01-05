@@ -1,11 +1,12 @@
 repo_name: edgybees/edgybees-peewee
 report_id: bd9fa640d5a2555ad88658688163366e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-13T13:36:44+00:00'
+timestamp: '2024-01-05T08:46:19+00:00'
 requested_by: coleifer
 provider: github
 branch: master
-detected_tools_count: 14
+detected_tools_count: 15
 tools:
 - name: C lang
   description: One of the most widely used programming languages of all time
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/edgybees/edgybees-peewee
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/edgybees/edgybees-peewee/blob/master/examples/blog/static/js/jquery-1.11.0.min.js
   detection_source: examples/blog/static/js/jquery-1.11.0.min.js
   last_updated_by: Charles Leifer
   last_updated_on: 2015-03-11 18:13:33.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/edgybees/edgybees-peewee
   detection_source: Repo Metadata
 - name: Flask
   description: A microframework for Python based on Werkzeug, Jinja 2 and good intentions
@@ -47,7 +51,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
-  detection_source: examples/twitter/requirements.txt
+  detection_source_url: https://github.com/edgybees/edgybees-peewee/blob/master/examples/analytics/requirements.txt
+  detection_source: examples/analytics/requirements.txt
   last_updated_by: Charles Leifer
   last_updated_on: 2014-02-27 16:47:36.000000000 Z
 - name: peewee
@@ -59,7 +64,8 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/1234/peewee3-logo.png
-  detection_source: examples/twitter/requirements.txt
+  detection_source_url: https://github.com/edgybees/edgybees-peewee/blob/master/examples/analytics/requirements.txt
+  detection_source: examples/analytics/requirements.txt
   last_updated_by: Charles Leifer
   last_updated_on: 2014-02-27 16:47:36.000000000 Z
 - name: Git
@@ -70,6 +76,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/edgybees/edgybees-peewee
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -79,6 +86,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/edgybees/edgybees-peewee/blob/master/.github/workflows/tests.yaml
   detection_source: ".github/workflows/tests.yaml"
   last_updated_by: Charles Leifer
   last_updated_on: 2020-12-28 20:35:47.000000000 Z
@@ -90,6 +98,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/edgybees/edgybees-peewee/blob/master/examples/blog/requirements.txt
   detection_source: examples/blog/requirements.txt
   last_updated_by: Charles Leifer
   last_updated_on: 2015-03-11 18:13:33.000000000 Z
@@ -102,6 +111,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/edgybees/edgybees-peewee/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Charles Leifer
   last_updated_on: 2019-04-25 14:04:26.000000000 Z
@@ -113,6 +123,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/edgybees/edgybees-peewee/blob/master/examples/blog/requirements.txt
   detection_source: examples/blog/requirements.txt
   last_updated_by: Charles Leifer
   last_updated_on: 2015-03-11 18:13:33.000000000 Z
@@ -125,6 +136,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/edgybees/edgybees-peewee
   detection_source: Repo Metadata
 - name: docutils
   description: "http://t.co/lH6rcPxBja Service Outage and other informational alerts.\r\n\r\nFor
@@ -133,30 +145,47 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8480/LI68uG-2_normal.jpg
+  detection_source_url: https://github.com/edgybees/edgybees-peewee/blob/master/docs/requirements.txt
   detection_source: docs/requirements.txt
   last_updated_by: Charles Leifer
   last_updated_on: 2021-10-31 18:14:31.000000000 Z
 - name: beautifulsoup4
   description: Screen-scraping library
-  package_url: https://pypi.org/beautifulsoup4
+  package_url: https://pypi.org/project/beautifulsoup4
   license: MIT
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19838/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/edgybees/edgybees-peewee/blob/master/examples/blog/requirements.txt
   detection_source: examples/blog/requirements.txt
   last_updated_by: Charles Leifer
   last_updated_on: 2018-12-13 12:36:46.000000000 Z
+- name: docutils
+  description: Docutils -- Python Documentation Utilities
+  package_url: https://pypi.org/project/docutils
+  version: '0.18'
+  license: Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19874/default_7ed3c4ccf2a3218ae3655165b980bd4a90a445dc.png
+  detection_source_url: https://github.com/edgybees/edgybees-peewee/blob/master/docs/requirements.txt
+  detection_source: docs/requirements.txt
+  last_updated_by: Charles Leifer
+  last_updated_on: 2021-10-31 18:14:31.000000000 Z
 - name: psycopg2
   description: Psycopg2 - Python-PostgreSQL Database Adapter
-  package_url: https://pypi.org/psycopg2
+  package_url: https://pypi.org/project/psycopg2
   license: BSD-3-Clause-Attribution
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20416/default_64aa60b33468d1d28611966765867676f6303b64.png
+  detection_source_url: https://github.com/edgybees/edgybees-peewee/blob/master/examples/analytics/requirements.txt
   detection_source: examples/analytics/requirements.txt
   last_updated_by: phanirithvij
   last_updated_on: 2020-05-27 14:16:44.000000000 Z
