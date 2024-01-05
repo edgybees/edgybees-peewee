@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 edgybees/edgybees-peewee is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -12,11 +13,13 @@ edgybees/edgybees-peewee is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 edgybees/edgybees-peewee is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -27,14 +30,15 @@ edgybees/edgybees-peewee is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [edgybees/edgybees-peewee](https://github.com/edgybees/edgybees-peewee)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|11/13/23 <br/>Report generated|
+|15<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -160,16 +164,17 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (2)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (3)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (2)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (3)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[beautifulsoup4](https://pypi.org/beautifulsoup4)|N/A|12/13/18|Charles Leifer |MIT|N/A|
-|[psycopg2](https://pypi.org/psycopg2)|N/A|05/27/20|phanirithvij |BSD-3-Clause-Attribution|N/A|
+|[beautifulsoup4](https://pypi.org/project/beautifulsoup4)|N/A|12/13/18|Charles Leifer |MIT|N/A|
+|[docutils](https://pypi.org/project/docutils)|v0.18|10/31/21|Charles Leifer |Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible|N/A|
+|[psycopg2](https://pypi.org/project/psycopg2)|N/A|05/27/20|phanirithvij |BSD-3-Clause-Attribution|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
